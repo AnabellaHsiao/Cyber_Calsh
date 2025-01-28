@@ -1,0 +1,4 @@
+a= ["a","s,"\0","b","\0","c"]
+char *pr;
+pr=&a
+printf("%s, and %s\n",pr,pr+3)
