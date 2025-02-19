@@ -1,0 +1,3 @@
+[submodule "dotcoin-UTXO"]
+	path = dotcoin-UTXO
+	url = https://github.com/CSCD71/dotcoin-AnabellaHsiao
