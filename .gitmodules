@@ -1,3 +1,6 @@
 [submodule "dotcoin-UTXO"]
 	path = dotcoin-UTXO
 	url = https://github.com/CSCD71/dotcoin-AnabellaHsiao
+[submodule "Account-Model-ticketmaster"]
+	path = Account-Model-ticketmaster
+	url = https://github.com/CSCD71/d-ticketmaster-tractor.git
